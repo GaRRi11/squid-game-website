@@ -1,0 +1,32 @@
+{
+  "seasons": [
+    {
+      "id": 1,
+      "name": "Season 1",
+      "episodes": [
+        { "id": 1, "title": "Episode 1", "video": "/assets/squid-game/S1/E1/index.m3u8" },
+        { "id": 2, "title": "Episode 2", "video": "/assets/squid-game/S1/E2/index.m3u8" },
+        { "id": 3, "title": "Episode 3", "video": "/assets/squid-game/S1/E3/index.m3u8" },
+        { "id": 4, "title": "Episode 4", "video": "/assets/squid-game/S1/E4/index.m3u8" },
+        { "id": 5, "title": "Episode 5", "video": "/assets/squid-game/S1/E5/index.m3u8" },
+        { "id": 6, "title": "Episode 6", "video": "/assets/squid-game/S1/E6/index.m3u8" },
+        { "id": 7, "title": "Episode 7", "video": "/assets/squid-game/S1/E7/index.m3u8" },
+        { "id": 8, "title": "Episode 8", "video": "/assets/squid-game/S1/E8/index.m3u8" },
+        { "id": 9, "title": "Episode 9", "video": "/assets/squid-game/S1/E9/index.m3u8" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Season 2",
+      "episodes": [
+        { "id": 1, "title": "Episode 1", "video": "/assets/squid-game/S2/E1/index.m3u8" },
+        { "id": 2, "title": "Episode 2", "video": "/assets/squid-game/S2/E2/index.m3u8" },
+        { "id": 3, "title": "Episode 3", "video": "/assets/squid-game/S2/E3/index.m3u8" },
+        { "id": 4, "title": "Episode 4", "video": "/assets/squid-game/S2/E4/index.m3u8" },
+        { "id": 5, "title": "Episode 5", "video": "/assets/squid-game/S2/E5/index.m3u8" },
+        { "id": 6, "title": "Episode 6", "video": "/assets/squid-game/S2/E6/index.m3u8" },
+        { "id": 7, "title": "Episode 7", "video": "/assets/squid-game/S2/E7/index.m3u8" }
+      ]
+    }
+  ]
+}
